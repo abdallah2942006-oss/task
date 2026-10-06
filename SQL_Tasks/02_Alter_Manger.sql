@@ -1,0 +1,6 @@
+ALTER TABLE Manger
+DROP COLUMN address;
+
+ALTER TABLE Manger
+ADD COLUMN city_address VARCHAR(100),
+ADD COLUMN street VARCHAR(100);
