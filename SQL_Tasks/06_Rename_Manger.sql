@@ -1,0 +1,1 @@
+RENAME TABLE Manger TO Master;
